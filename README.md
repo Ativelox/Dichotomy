@@ -1,6 +1,6 @@
 # Dichotomy
 
-Dichotomy is a automated bot for [Discord](https://discordapp.com/) which is a voice- and chat service.
+Dichotomy is an automated bot for [Discord](https://discordapp.com/) which is a voice- and chat service.
 
 ## Requirements
 
